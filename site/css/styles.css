@@ -1,0 +1,105 @@
+/*   General   */
+html,body {
+    background: url('../img/background.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+img {
+    opacity: 1; 
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Fjalla One', sans-serif;
+}
+
+
+footer {
+  font-family: 'Fjalla One', sans-serif;
+   position: fixed;
+   left: 0px;
+   bottom: 0px;
+   height: 35px;
+   width: 100%;
+   background: #efefef;
+   text-align: center; 
+   font-size: 18px; 
+}
+
+nav {
+    font-family: 'Fjalla One', sans-serif;
+}
+
+nav ul li:hover {
+    background-color: lawngreen; 
+    border-radius: 15px;  
+}
+
+nav ul li:active {
+    background-color: #efefef; 
+    border-radius: 18px;   
+}
+
+/*   Alignments   */
+
+.verticaltext {
+    vertical-align: middle;
+}
+
+.lefttextalign table th td {
+    text-align: left; 
+}
+
+
+/*   Navigation   */
+
+/*   Body   */
+
+.floatleft {
+    float: left; 
+}
+
+.floatright {
+    float: right; 
+}
+
+.clearboth {
+    clear: both; 
+}
+
+.widthfifty {
+    width: 20%; 
+}
+
+.marginrightfive {
+    margin-right: 5%; 
+}
+
+.darkbackground {
+    background-color: rgba(0,0,0,0.7);
+    margin-top: 5%; 
+    color: #FFF; 
+    padding: 3%;  
+    font-size: 1.7rem; 
+    text-align: center; 
+    width: 100%; 
+}
+
+.lightbackground {
+    margin-top: 5%; 
+    color: #000; 
+    background-color: rgba(255,255,255,1);
+    padding: 3%;  
+    border-radius: 15px; 
+    font-size: 1.7rem; 
+    height:auto;
+    overflow:auto;
+}
+
+/*   Forms   */
+textarea {
+    width: 100%; 
+    color: #000000;
+}
