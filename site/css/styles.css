@@ -77,6 +77,14 @@ nav ul li:active {
     margin-right: 5%; 
 }
 
+.whiteblack {
+    background-color: #ffffff;
+    color: #000000;
+    padding: 1%;
+    border-radius: 18px;   
+    font-weight: bolder; 
+}
+
 .darkbackground {
     background-color: rgba(0,0,0,0.7);
     margin-top: 5%; 
