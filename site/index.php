@@ -5,7 +5,9 @@
         <p>Let Creative Websites bring your online presence into existence.  
         Togeather I can help create a user experience that will bring value to your company.  
         If you currently have a site or looking to start from scratch Creative Websites can fill your needs.</p>
-
+        <div>
+            <a href="contact.php"><p class="whiteblack">Let's create somehting AMAZING! Drop me a line.</p></a>
+        </div>
         <div class="lightbackground">
             <img src="./img/chrisgallup.png" alt="Web Developer Chris Gallup" class="floatleft widthfifty marginrightfive"><p>Want to put me to work? You can reach me by e-mail or phone.Let Creative Websites bring your online presence into existence.  
             I can help create a user experience that will bring value to you and your company.  
