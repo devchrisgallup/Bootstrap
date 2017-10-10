@@ -122,3 +122,13 @@ textarea {
         padding: 2%; 
     }
 }
+
+@media only screen and (max-width: 770px) {
+    .widthfifty {
+        width: 40%; 
+    }
+    .extrapadding {
+        padding: 4% 2% 2% 2%; 
+    }
+}
+
