@@ -18,3 +18,5 @@ $(function(){
         $('#home').removeClass('active'); 
     }
 });
+
+console.log('hello');
